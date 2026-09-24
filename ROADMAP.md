@@ -969,7 +969,7 @@ Given access to a Linux production host, you should be capable of determining:
 
 ---
 
-# 10. Docker, CI/CD and Cloud
+# 10. Docker, Git, CI/CD and Cloud
 
 ## P0 — Docker
 
@@ -991,6 +991,44 @@ Given access to a Linux production host, you should be capable of determining:
 - [ ] Containerizing ASP.NET Core
 - [ ] Persistent vs ephemeral state
 - [ ] Health checks
+
+## P0 — Git & Version Control: Daily professional Git
+
+- [ ] Understand Git's object/commit graph mental model
+- [ ] Working tree, staging area/index, local repository and remote repository
+- [ ] `git status`
+- [ ] `git add`
+- [ ] `git commit`
+- [ ] `git log`
+- [ ] `git diff`
+- [ ] Branch creation and switching
+- [ ] `HEAD`
+- [ ] Detached `HEAD`
+- [ ] Merge and merge commits
+- [ ] Fast-forward merges
+- [ ] Merge conflicts and conflict resolution
+- [ ] `git fetch`
+- [ ] `git pull`
+- [ ] `git push`
+- [ ] Remote-tracking branches
+- [ ] `git clone`
+- [ ] `.gitignore`
+- [ ] Tags
+- [ ] `git reset` vs `git revert`
+- [ ] Restore/discard local changes safely
+- [ ] Understand when rewriting history is safe and when it is not
+- [ ] Basic pull-request workflow
+
+## P1 — Git & Version Control: Advanced workflows
+
+- [ ] Rebase
+- [ ] Interactive rebase
+- [ ] Squashing commits
+- [ ] Reordering commits
+- [ ] Editing commits during interactive rebase
+- [ ] Cherry-pick
+- [ ] Relative references: `HEAD~` and `HEAD^`
+- [ ] Reflog
 
 ## P0 — CI/CD
 
