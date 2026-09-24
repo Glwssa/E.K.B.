@@ -15,6 +15,28 @@ The roadmap prioritizes the knowledge needed to become a strong **.NET backend e
 | **P2 — Specialisation** | Environment-, architecture-, or role-dependent knowledge |
 | **P3 — Project-triggered** | Learn when a concrete project requires it |
 
+# .NET Backend and AI Engineering Roadmap
+
+## Table of Contents
+
+1. [Modern C# and .NET](#1-modern-c-and-net)
+2. [ASP.NET Core and API Engineering](#2-aspnet-core-and-api-engineering)
+3. [SQL Server and Data Engineering](#3-sql-server-and-data-engineering)
+4. [Testing and Software Quality](#4-testing-and-software-quality)
+5. [Architecture and Domain Modelling](#5-architecture-and-domain-modelling)
+6. [Distributed Systems, Concurrency and Messaging](#6-distributed-systems-concurrency-and-messaging)
+7. [Caching and Performance](#7-caching-and-performance)
+8. [Security](#8-security)
+9. [Observability and Production Support](#9-observability-and-production-support)
+10. [Docker, Git, CI/CD and Cloud](#10-docker-git-cicd-and-cloud)
+11. [AI Engineering Fundamentals](#11-ai-engineering-fundamentals)
+12. [Recommended Project Roadmap](#12-recommended-project-roadmap)
+13. [Suggested 24-Week Execution Order](#13-suggested-24-week-execution-order)
+14. [Topics to Deliberately Postpone](#14-topics-to-deliberately-postpone)
+15. [Highest-Value Priorities](#15-highest-value-priorities-for-your-current-level)
+
+---
+
 ---
 
 # 1. Modern C# and .NET
