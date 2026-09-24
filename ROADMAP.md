@@ -1198,7 +1198,7 @@ This is an **ordering guide**, not a deadline.
 | **19–20** | RabbitMQ + Outbox + idempotency |
 | **21** | Linux / Docker / production diagnostics |
 | **22** | Observability / security |
-| **23** | Azure / CI/CD |
+| **23** | Git / Azure / CI/CD |
 | **24** | AI / RAG fundamentals |
 
 The dedicated **PostgreSQL, MongoDB, Kafka and Elasticsearch/OpenSearch** tracks can then be inserted when the project reaches a use case that justifies them.
@@ -1248,8 +1248,12 @@ For your current progression as a .NET backend developer, the highest-return seq
 11. **Linux / Docker / production troubleshooting**
 12. **Observability**
 13. **Security**
-14. **Azure / CI/CD**
-15. **PostgreSQL**
+14. **Git & Version Control**
+15. **Azure / CI/CD**
+16. **PostgreSQL**
+17. **Kafka**
+18. **MongoDB / Elasticsearch where the workload warrants them**
+19. **AI / RAG engineering**
 16. **Kafka**
 17. **MongoDB / Elasticsearch where the workload warrants them**
 18. **AI / RAG engineering**
