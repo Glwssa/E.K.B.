@@ -1032,8 +1032,6 @@ Given access to a Linux production host, you should be capable of determining:
 
 ## P0 — CI/CD
 
-- [ ] Git fundamentals
-- [ ] Pull requests
 - [ ] Build pipelines
 - [ ] Restore
 - [ ] Build
