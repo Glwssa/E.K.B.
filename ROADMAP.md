@@ -1135,7 +1135,13 @@ Build a .NET service that can:
 
 ---
 
-# 12. Project Roadmap (private section)
+# 12. Project Roadmap
+
+Recommended Project Roadmap
+
+The roadmap should not be completed only through isolated lessons.
+
+Your projects should progressively force these concepts into practice.
 
 ---
 
