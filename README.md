@@ -75,6 +75,8 @@ A useful prompt is:
 > * Include common mistakes and important caveats.
 > * End with roadmap topics covered, partially covered, and still remaining.
 > * Generate an actual downloadable `.md` file.
+> * Include what topics are covered at the top of the document.
+> * Include a navigation section to all topics.
 
 These category documents can then be kept alongside `ROADMAP.md`, turning the repository into a progressively expanding engineering knowledge base.
 
