@@ -97,7 +97,7 @@ The appendix includes the P1 runtime material that was taught in the chat:
 
 # Navigation
 
-- [P0 — Professional C# Fundamentals]
+- P0 — Professional C# Fundamentals
   - [1. Value types vs reference types](#1-value-types-vs-reference-types)
   - [2. Copying and parameter passing](#2-copying-and-parameter-passing)
   - [3. Boxing and unboxing](#3-boxing-and-unboxing)
@@ -134,7 +134,7 @@ The appendix includes the P1 runtime material that was taught in the chat:
   - [34. Reflection fundamentals](#34-reflection-fundamentals)
   - [35. Source-generation fundamentals](#35-source-generation-fundamentals)
   - [36. Modern C# / C# 14 backend-relevant features](#36-modern-c-c-14-backend-relevant-features)
-- [P0 — Async & Concurrency]
+- P0 — Async & Concurrency
   - [37. `Task` and `Task<T>`](#37-task-and-taskt)
   - [38. `async` / `await`](#38-async-await)
   - [39. I/O-bound vs CPU-bound work](#39-io-bound-vs-cpu-bound-work)
