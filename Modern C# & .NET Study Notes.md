@@ -171,10 +171,8 @@ The appendix includes the P1 runtime material that was taught in the chat:
   - [Category 1 — P0 Professional C# Fundamentals](#category-1-p0-professional-c-fundamentals)
   - [Category 1 — P0 Async & Concurrency](#category-1-p0-async-concurrency)
 - [Roadmap Topics Partially Covered](#roadmap-topics-partially-covered)
-  - [Category 1 — P0](#category-1-p0)
   - [Category 1 — P1 Runtime & Diagnostics](#category-1-p1-runtime-diagnostics)
 - [Roadmap Topics Still Remaining](#roadmap-topics-still-remaining)
-  - [Category 1 — P0](#category-1-p0)
   - [Category 1 — P1 Runtime & Diagnostics](#category-1-p1-runtime-diagnostics)
 
 ---
